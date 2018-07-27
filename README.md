@@ -1,3 +1,5 @@
 # hello-world
-hello world repository to learn git
-some changes by arun 1
+
+Content by arun
+Hello world edits
+
