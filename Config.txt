@@ -1,1 +1,2 @@
 Sample config file
+First line
